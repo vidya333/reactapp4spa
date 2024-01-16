@@ -1,0 +1,9 @@
+.bgl{
+    background: transparent;
+    padding: 60px !important;border-radius: 10px;
+    box-shadow: 0px 20px 20px 3px rgb(36, 34, 34);
+    width: 60% !important;transition: 0.3s ease;
+}
+.bgl:hover{
+    background: hsl(242, 63%, 79%,0.3) !important;
+}

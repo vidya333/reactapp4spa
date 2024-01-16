@@ -1,0 +1,21 @@
+nav ul{
+list-style: none;
+display: flex;
+margin-left: auto;
+margin-right: auto;
+}
+a:-webkit-any-link {
+    color: #fff;
+    text-decoration: none;
+    margin: 50px;
+    line-height: 90px;
+    transition: 0.3s ease;
+}
+a:-webkit-any-link:hover{
+    color: #f5a9c0;}
+.nav{
+    background: linear-gradient(rgba(255, 255, 255, 0.9),rgba(255, 255, 255, 0.0));
+}
+a:-webkit-any-link:active{
+background-color: transparent;
+}
